@@ -1,0 +1,4 @@
+export SVN_EDITOR=vim
+export GOPATH=/Users/su/gocode
+export GOROOT=/Users/su/go
+export PATH=$GOROOT/bin:$PATH

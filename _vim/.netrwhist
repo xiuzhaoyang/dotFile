@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Applications'
+let g:netrw_dirhist_2='/Users/su/opt/webroot/WContact/dev_branch/web/application'
+let g:netrw_dirhist_3='/Applications/MAMP'
+let g:netrw_dirhist_4='/Users/su'
+let g:netrw_dirhist_5='/Applications/MAMP'
+let g:netrw_dirhist_6='/Users/su'
+let g:netrw_dirhist_7='/Users/su/.vim'
+let g:netrw_dirhist_8='/Users/su/Desktop/python'
